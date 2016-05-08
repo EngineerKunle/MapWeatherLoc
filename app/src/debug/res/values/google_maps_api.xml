@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=89:90:9B:C1:93:97:DC:AC:65:FC:91:7A:E0:5B:2F:6A:B8:6F:E7:BD%3Bcom.moviedatabase.engineerkunle.weathermap
+
+    You can also add your credentials to an existing key, using this line:
+    89:90:9B:C1:93:97:DC:AC:65:FC:91:7A:E0:5B:2F:6A:B8:6F:E7:BD;com.moviedatabase.engineerkunle.weathermap
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAR7wQbB3baCDrVVlhvjSu3oqcDrO2JJpk</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherMap</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!--Here are the default strings-->
+    <string name="displayBefore">Please wait ...</string>
+    <string name="description">Lat and Long values: (</string>
+    <string name="city">The Map marker is at </string>
+    <string name="temperature">Average temperature here in ºC is: </string>
+
+    <!--This is just for the medium layout -->
+    <string name="mediumTextDefault">Please hold the marker and move around the map to retrieve new weather infomation</string>
+</resources>
