@@ -228,6 +228,7 @@ public class MapsActivity extends FragmentActivity implements GoogleApiClient.Co
             }else{
 
                 rLBackground.setBackgroundColor(getResources().getColor(R.color.defaultWHite));
+                tv.setTextColor(getResources().getColor(R.color.colorAccent));
             }
         }
 
